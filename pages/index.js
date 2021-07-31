@@ -49,15 +49,13 @@ export default function Home() {
         <link rel="icon" href="/ss-favicon.ico" />
       </Head>
 
-      <StyledHeader>
-        <Image src="/ss-logo.png" alt="Sunset Series logo" width="120" height="120" />
-        <h1>Sunset Series</h1>
-        <h2>Redefine. Recharge. Reconnect.</h2>
-        <h3>August 6th - September 5th, 2021</h3>
-      </StyledHeader>
+      <header>
+        <Image src="/banner.png" alt="Sunset Series banner" width="7148" height="1787" />
+      </header>
 
       <StyledMain>
-        Welcome to Sunset Series 2021 😎
+        <h1>Events</h1>
+        <p>Coming soon! Check back later 🎉</p>
       </StyledMain>
 
       <StyledFooter>
