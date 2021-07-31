@@ -8,15 +8,19 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #FF722C;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 h1 {
   font-weight: 700;
   font-style: italic;
   text-transform: uppercase;
-  margin-bottom: 12px;
+  margin-bottom: 24px;
 }
 
 * {
