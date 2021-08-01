@@ -71,7 +71,7 @@ export default function Home() {
     {
       name: "Sunset Series: VALORANT",
       game: "Valorant",
-      date: "Aug 21",
+      date: "Aug 28",
     },
   ];
 
